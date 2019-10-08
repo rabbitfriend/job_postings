@@ -33,7 +33,7 @@ The ideal candidate is presently:
 
 As a Data Scientist, you will able to:
 
-* collaborate directly with clients to identify anlytical needs and methods
+* collaborate directly with clients to identify analytical needs and methods
 * develop or extend existing mathematical models for ecological data
 * write code to prepare, manipulate, analyze, and visualize data
 * support data-driven decision making in conservation management
